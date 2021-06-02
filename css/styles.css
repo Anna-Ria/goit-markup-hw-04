@@ -137,7 +137,7 @@ text-decoration: none;
     display: flex;
     margin-left: auto;
 }
-.item-contact {
+.item-contact:not(:last-child) {
     margin-right: 50px;
 }
   
@@ -273,7 +273,7 @@ text-transform: uppercase;
       /* чем мы занимаемся */
 
       .section-work {
-          padding-top: 50px;
+          padding-top: 94px;
           padding-bottom: 94px;
       }
 .section-work .section-title {
@@ -461,7 +461,7 @@ letter-spacing: 0.03em;
     list-style: none;
 }
 
-.address-link:not(:first-child) {
+.address:not(:last-child) {
 margin-bottom: 9px;
 }
 
@@ -545,7 +545,7 @@ border-color: transparent;
     padding-bottom: 94px;
 }
 .filters-button {
-    padding-bottom: 50px;
+    margin-bottom: 50px;
     display: flex;
     align-items: center;
      justify-content: center;
