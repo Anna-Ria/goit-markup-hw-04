@@ -179,7 +179,7 @@ color: var(--accent-color) ;
     background-color:  #C4C4C4;
     background-image: linear-gradient(rgba(47, 48, 58, 0.4),
     rgba(47, 48, 58, 0.4)),
-     url(../image/Img.head.jpg);
+     url(../image/img.head.jpg);
     background-size: cover;
     color: var(--white);
     text-align: center;
