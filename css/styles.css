@@ -176,11 +176,10 @@ color: var(--accent-color) ;
 
      /* hero */
 .hero {
-    background-color:  #C4C4C4;;
+    background-color:  #C4C4C4;
     background-image: linear-gradient(rgba(47, 48, 58, 0.4),
-    rgba(47, 48, 58, 0.4)
-    ),
-     url(../image/img.head.JPG);
+    rgba(47, 48, 58, 0.4)),
+     url("../image/img.head.JPG");
     background-size: cover;
     color: var(--white);
     text-align: center;
