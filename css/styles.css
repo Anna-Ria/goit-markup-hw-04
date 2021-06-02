@@ -377,6 +377,9 @@ margin-bottom: 16px;
 .social-list-link:focus .social-list-icon {
  fill: var(--white) ;
 }
+
+<!-- клиенты -->
+
 .clients {
     
         padding-top: 50px;
